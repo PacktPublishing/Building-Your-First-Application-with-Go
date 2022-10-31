@@ -44,7 +44,3 @@ For Go 1.11 and later: Windows Server 2008R2 and higher or Windows 7 and higher.
 
 * [Getting Started with Apache Maven [Video]](https://www.packtpub.com/application-development/building-your-first-application-go-video?utm_source=github&utm_medium=repository&utm_campaign=9781783283811)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781783283811">https://packt.link/free-ebook/9781783283811 </a> </p>
